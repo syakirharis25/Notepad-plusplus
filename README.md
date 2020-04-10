@@ -30,7 +30,7 @@ Don Ho : https://github.com/donho <br />
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Notepad-plusplus.git
-$ cd Snort/
+$ cd Notepad-plusplus/
 $ git remote -v
 $ git status
 ```
