@@ -10,7 +10,7 @@ My works related to Notepad++,  a text and source code editor for use with Micro
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="notepad-plusplus.png" height="100"> 
+<img src="notepad-plusplus.png" height="150"> 
 Notepad++ is a text and source code editor for use with Microsoft Windows. It supports tabbed editing, which allows working with multiple open files in a single window. The project's name comes from the C increment operator.
 <br /><br />
 Notepad++ is distributed as free software. At first the project was hosted on SourceForge.net, from where it has been downloaded over 28 million times, and twice won the SourceForge Community Choice Award for Best Developer Tool. The project was hosted on TuxFamily from 2010 to 2015; since 2015 Notepad++ has been hosted on GitHub. Notepad++ uses the Scintilla editor component.
